@@ -10,10 +10,10 @@ export default function Hero() {
           <div className="hero__text">
             <span className="hero__label">Software Engineer · Finland</span>
             <h1 className="hero__name">Md Shariful Islam</h1>
-            <p className="hero__tagline">Full-Stack Development · Cloud · Human-Centered Design</p>
+            <p className="hero__tagline">Full-Stack Development · Testing · Cloud · Human-Centered Design</p>
             <p className="hero__sub">
-              Building scalable, user-focused software — from React frontends and Java backends
-              to cloud infrastructure and research-driven applications.
+              Building scalable, user-focused software; from frontend to backend,
+              cloud infrastructure, test-driven applications and research-driven applications.
             </p>
             <div className="hero__actions">
               <a href="#projects" className="btn btn--primary">View My Work</a>

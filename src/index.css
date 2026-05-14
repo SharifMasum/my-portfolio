@@ -254,7 +254,7 @@ p  { line-height: 1.75; color: var(--text-body); }
 }
 .hero__photo {
   width: 300px;
-  height: 300px;
+  height: 340px;
   border-radius: 24px;
   object-fit: cover;
   object-position: top center;
