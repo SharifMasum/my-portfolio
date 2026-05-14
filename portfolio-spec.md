@@ -6,6 +6,8 @@
 - **Color palette:** Deep purple / indigo as primary accent, neutral greys and white for backgrounds
 - **Layout:** Single scrolling page with a sticky nav that smooth-scrolls to each section
 - **Tech stack:** React + Vite
+- **Animations:** Subtle scroll animations (elements fade/slide in as they enter the viewport)
+- **Hosting:** Vercel
 
 ---
 
@@ -28,6 +30,7 @@
 - **Name:** Md Shariful Islam
 - **Tagline:** Software Engineer
 - **Sub-tagline / one-liner:** Based in Finland — full-stack development, cloud, and human-centered design
+- **Profile photo:** Yes — headshot to be placed in the hero (provide image file when ready)
 - **CTA buttons:** "View My Work" (scrolls to Projects) · "Get In Touch" (scrolls to Contact)
 - **Background:** Clean, minimal — possibly a subtle geometric or gradient backdrop in indigo tones
 
@@ -173,12 +176,10 @@ A RESTful backend API for managing appointments between doctors and patients. Fe
 
 ---
 
-**Game App**
-A web-based game application.
-- Tech: PHP
+**Uncommon Ground**
+A web-based cooperative strategy game designed to promote equity, diversity, and inclusion. Players register, join groups, select unique alien characters, and collaborate through turn-based voting across gameplay phases involving resource management, tool upgrades, and phase-winning conditions. Built with real-time multiplayer support via WebSocket (Ratchet).
+- Tech: PHP · MySQL · JavaScript · HTML · CSS · WebSocket (Ratchet)
 - GitHub: https://github.com/SharifMasum/game-app
-
-> **Note:** Expand the Game App description once more details are available about what the app does.
 
 ---
 
@@ -195,8 +196,5 @@ Display as a simple section with icons for each link and a "Let's connect" headi
 
 ## Open Questions / Notes
 
-- **Game App:** No README found in the repo. Before building, add a 1–2 sentence description of what the game does so the project card copy is accurate.
-- **Hero image / photo:** Does Shariful want a profile photo in the hero? If yes, provide a headshot.
-- **Favicon:** Custom favicon or initials-based (e.g. "SI")?
-- **Domain / hosting:** Where will the site be hosted? (Vercel, Netlify, GitHub Pages, etc.)
-- **Animation:** Any subtle scroll animations, or keep it fully static/clean?
+- **Hero photo:** Provide a headshot image file before building the hero section.
+- **Favicon:** Custom favicon or initials-based (e.g. "SI")? To be decided.
