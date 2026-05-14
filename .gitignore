@@ -38,3 +38,5 @@ CLAUDE.md
 .parcel-cache/
 .eslintcache
 .stylelintcache
+
+.vercel
