@@ -30,6 +30,9 @@ Thumbs.db
 *.swp
 *.swo
 
+# Local AI guidance
+CLAUDE.md
+
 # Cache
 .cache/
 .parcel-cache/
